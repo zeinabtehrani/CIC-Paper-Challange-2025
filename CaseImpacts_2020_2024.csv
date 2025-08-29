@@ -1,0 +1,8 @@
+Case,Year,Country,Disruption,DataExfiltration,RansomPaidReported,NationalScale,Notes
+Brno University Hospital,2020,Czechia,1,0,0,0,Network shutdown; surgeries postponed; testing delayed (ICRC blog)
+Düsseldorf University Hospital,2020,Germany,1,0,0,0,Ambulance diversion; prosecutors probed causal link (WIRED)
+Irish HSE,2021,Ireland,1,0,0,1,Conti ransomware; ~80% IT encrypted; radiotherapy paused nationally (WHO/UN brief)
+Lurie Children's Hospital,2024,USA,1,1,0,0,Rhysida leak ~791k impacted after refusal (Sangfor)
+Change Healthcare,2024,USA,1,1,1,1,US-wide claims/prescriptions disrupted; cost up to $1.6B; ransom widely reported (Lancet)
+Ascension Health,2024,USA,1,0,0,1,120 hospitals; 37 days to restore; ~$130M response; diversions (Sangfor)
+NHS Synnovis (England),2024,UK,1,1,0,1,Thousands of appts impacted; ~400GB leak (Sangfor)
